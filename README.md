@@ -1,5 +1,5 @@
 
-# Part 1: Directions
+# Part 1: Directions 
 
 ## Directions Using Webstorm:
 1. Go to the following site: [Webstorm Installation Guide].
